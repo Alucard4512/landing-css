@@ -1,0 +1,22 @@
+body{font-family: 'Joan', serif;color: white;background-color:black ;}
+
+h1{color: white;font-size:40px;
+    text-align: center;margin: 1%;}
+
+h2{color: white;font-size:30px;
+        text-align: center;}
+
+header{background-image: url("https://videos.cults3d.com/LCc5dyaLfz4a9Y_UnW8BSHLcoas=/516x516/https://files.cults3d.com/uploaders/16297551/illustration-file/dd873ff2-8fdc-413e-a0b4-ff7903bcb871/0000-0160.gif"); 
+    background-position: center; background-size:contain; max-width: 2500px; max-height: 6000px ; border: rgb(14, 12, 12);margin: bottom 300px;}
+section{width: 900px; margin: auto;}
+div > img{ width: 450px;}
+div > div{display:inline-block; vertical-align: top;padding-top: 15px;}
+.metal{display: inline-flex;
+    box-shadow:0 0.5em 1em -0.125em rgb(255, 255, 255), 0 0px 0 1px rgb(255,255,255)}
+
+p{font: size 60px;margin-left: 20px;}
+
+b{margin-left: 20px;}
+
+footer{background-color: rgb(58, 45, 45);
+color: white;padding: 20px;text-align: center;font-size: 40px;}
